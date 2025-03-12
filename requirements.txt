@@ -1,2 +1,3 @@
 marqo
 numpy
+ollama
